@@ -18,6 +18,8 @@ This application contains all the pertinent information relating to Aaron's jour
 
 Enter Git Hub pages URL in browser address bar
 
+https://aaronjosephewert.github.io/Portfolio--Landing-Page/
+
 ## Known Bugs
 
 - No known bugs at this time.
