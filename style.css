@@ -1,0 +1,32 @@
+img {
+  width: 400px;
+  height: 400px;
+  border-radius: 100px;
+  float: left;
+  margin-right: 50px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+body {
+  background-image: url(images/whiteabstract.jpeg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+div {
+  background-color: antiquewhite;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid 1px black;
+}
+span {
+  background-color: antiquewhite;
+}
+
+.bio {
+  padding: 10px;
+}
+
+.header {
+  float: center;
+}
